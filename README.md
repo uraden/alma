@@ -28,8 +28,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 ## Website Structure
- ### There are 3 pages in this project 
+1. There are 3 pages in this project 
     * Home page - thats where you submit the form - localhost:3000
     * Success page - thats where you see confirmation about submission - http://localhost:3000/confirmation?email=armstrong@gmail.com
     * Table page - thats where you see the Table - http://localhost:3000/listOfUsers
+ 
 
