@@ -1,4 +1,4 @@
-# Next.js Project
+# Next.js alma Project
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
@@ -28,10 +28,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 ## Website Structure
-1. There are 3 pages in this project 
+ ### There are 3 pages in this project 
     * Home page - thats where you submit the form - localhost:3000
     * Success page - thats where you see confirmation about submission - http://localhost:3000/confirmation?email=armstrong@gmail.com
     * Table page - thats where you see the Table - http://localhost:3000/listOfUsers
-
-
 
