@@ -15,11 +15,19 @@ export default function Confirmation() {
           Your information was submitted to our team of immigration attorneys.
           Someone will be in touch soon at <strong>{email}</strong>. Thank you!
         </p>
+        <div className="flex flex-col space-y-4">
         <Link href="/">
           <button className="bg-black text-white px-4 py-2 rounded submit-button">
             Go back to Homepage
           </button>
         </Link>
+
+        <Link href="/listOfUsers">
+          <button className="bg-black text-white px-4 py-2 rounded submit-button">
+           List of Users
+          </button>
+        </Link>
+        </div>
       </div>
     </div>
   );
